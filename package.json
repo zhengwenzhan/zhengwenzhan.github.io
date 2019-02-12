@@ -6,7 +6,7 @@
     "homepage": "http://zhengwenzhan.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/zhengwenzhan/zhengwenzhan.github.io.git"
+        "url": "https://github.com/zhengwenzhan/zhengwenzhan.github.io"
     },
     "devDependencies": {
         "grunt": "~0.4.5",
